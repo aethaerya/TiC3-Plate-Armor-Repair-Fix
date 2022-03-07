@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 6,
+        "description": "Changes Plate Armor's repair material from Manyullyn to Cobalt. For TiC 3.3.3.332"
+    }
+}
